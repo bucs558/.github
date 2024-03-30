@@ -34,5 +34,3 @@ Note: subsequent editions are acceptable alternatives.
 - _Computer Security: Art and Science, Second Edition_, Matt Bishop (2018). ISBN: 978-0321712332
 - _Cryptography and Network Security: Principles and Practice, Eighth Edition_, Willam Stallings (2016). ISBN: 978-9357059718
 - _Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software_, Michael Sikorski and Andrew Honig (2012). ISBN: 978-1593272906
-
-<! -- ## 🯄 Frequently Asked Questions -->
